@@ -1,0 +1,2 @@
+# remote-surgery-guidance-minutes
+远程手术指导会议达芬奇纪要全栈系统——前端同步腔镜手术画面，后端处理主刀与远端专家音频，librosa消除电刀与监护仪警报，Whisper转写手术步骤与解剖标识，pyannote标记术者与指导者，OpenAI生成手术要点与技术改进摘要，归档至手术记录系统
